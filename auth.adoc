@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\auth.adoc
+// Generated at: 2025-10-09T11:03:57.326Z
